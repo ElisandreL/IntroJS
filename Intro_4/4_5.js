@@ -1,5 +1,5 @@
 const readlineSync = require("readline-sync");
-//Exo 5
+//Exo 4.5
 /*let A = [1, 1];
 let B = [2, 2];
 let xAB = Math.pow((B[0] - A[0]), 2);
@@ -18,3 +18,7 @@ function calcDistance(A, B) {
     return tot = Math.sqrt(xAB + yAB);
 }
 console.log(calcDistance(A, B));
+/* calcul de la racine carrée de la somme des carrés des 2 autres cotés : 
+racine carrée de (x2 - x1) au carré + (y2 - y1) au carré*/
+// math.pow permet de réaliser une puissanc
+// math.sqrt permet la racine carrée

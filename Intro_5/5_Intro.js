@@ -31,7 +31,7 @@ console.log(myObject); // {firstname: "Gerard", age: 54}
 By combining objects, arrays and a few simple types 
 we can represent complex data structures suitable to represent
  most type of data.*/
- {
+ /*{
     "firstname": "Gerard",
     "lastname": "Lambert",
     "age": 42,
@@ -51,4 +51,4 @@ we can represent complex data structures suitable to represent
       "city": "Paris",
       "zip": 1000
     }
-  }
+  }*/

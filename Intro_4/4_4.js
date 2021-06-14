@@ -53,6 +53,7 @@ return max;
 
 console.log('Here is your array : ' + multiRand(n) + '. Here is its average : ' + average(arr) + '. Here is its minimum : ' + min(arr) + '. And its maximum : ' + max(arr) + '.');
 
+// Création de multiples fonctions afin de les séparer et pouvoir les utiliser indépendemment
 
 /*function averagator () {
     function multiRand(n) {
@@ -72,7 +73,6 @@ console.log('Here is your array : ' + multiRand(n) + '. Here is its average : ' 
 }   while (stop = !(i < n));
 }*/
 
-// à revoir
 
 
 

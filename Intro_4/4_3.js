@@ -27,6 +27,7 @@ while (j < arr.length) {
         j++;
     }
 }*/
+
 function rand10() {
     return Math.round(Math.random() * 10);
 }
